@@ -23,7 +23,7 @@ with col2:
     st.write("""
 📧 Email: rizamelabastida05@email.com  
 📱 Facebook: Rizame M. Labastida  
-📞 Contact: 09XX-XXX-XXXX  
+📞 Contact: 09123456789
 🎓 Role: Computer Science Student  
 📍 Location: Mandaon, Masbate  
 """)
